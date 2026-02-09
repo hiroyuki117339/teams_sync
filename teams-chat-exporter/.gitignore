@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# --- IMPORTANT ---
+# Exclude sensitive user data
+playwright_user_data/
+saved_chats/
